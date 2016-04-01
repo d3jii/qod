@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+
+    "name": "QOD",
+    "description": "Displays random quote of the days",
+    "version": "1.0.0",
+
+    "chrome_url_overrides": {
+        "newtab" : "index3.html"
+    },
+
+
+    "icons": { 
+        "16": "images/codrops_logo.jpg", 
+        "48": "images/codrops_logo.jpg",
+        "128": "images/codrops_logo.jpg"
+    }
+}
